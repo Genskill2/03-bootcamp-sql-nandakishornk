@@ -20,12 +20,12 @@ INSERT INTO subjects
 INSERT INTO books
 	VALUES (301,'The C Programming Language',101),
 	(302,'The Go Programming Language',101),
-	(303,'The Unix Programming Environment',101),
+	(303,'The UNIX Programming Environment',101),
 	(304,'Cryptonomicon',102),
 	(305,'Deep Work',103),
 	(306,'Atomic Habits',104),
 	(307,'The City and The City',105),
-	(308,'The Great War of Civilisation',106);
+	(308,'The Great War for Civilisation',106);
 	
 INSERT INTO books_subjects
 	VALUES (301,201),(301,202),(301,203),
