@@ -1,5 +1,5 @@
 DELETE FROM books_subjects
-WHERE subject=209;
+WHERE subjects=209;
 
 DELETE FROM subjects
 WHERE name='History';
